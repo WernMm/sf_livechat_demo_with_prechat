@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/JavaApp5/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Projects/JavaApp5/app/src/main/res/layout/chat_webview.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/JavaApp5/app/src/main/res/layout/content_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/JavaApp5/app/src/main/res/layout/fragment_first.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/JavaApp5/app/src/main/res/layout/fragment_second.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/ccf467214b8d191e6358cc35bf108635/transformed/jetified-chat-ui-4.2.0/res/drawable/chat_button.xml" value="0.4036458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
